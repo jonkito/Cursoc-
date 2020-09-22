@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571243664 source:e:\c++\excepciones\excepciones\main.cpp
+	<iostream>
+	<fstream>
+	<stdexcept>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570118046 source:e:\c++\punterosclasesclase\punterosclasesclase\main.cpp
+	<iostream>
+	"Objeto.hpp"
+
+1570118552 source:e:\c++\punterosclasesclase\punterosclasesclase\objeto.cpp
+	"Objeto.hpp"
+
+1570118168 e:\c++\punterosclasesclase\punterosclasesclase\objeto.hpp
+

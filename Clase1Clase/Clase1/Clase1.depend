@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1571074084 source:e:\c++\clase1clase\clase1\main.cpp
+	<iostream>
+	<COCHE.HPP>
+	<GARAGE.HPP>
+
+1571074140 source:e:\c++\clase1clase\clase1\src\coche.cpp
+	"Coche.hpp"
+	<string>
+
+1571074140 e:\c++\clase1clase\clase1\include\coche.hpp
+	<string>
+	<iostream>
+
+1570031634 e:\c++\clase1clase\clase1\include\garage.hpp
+	<COCHE.HPP>
+
+1570033222 source:e:\c++\clase1clase\clase1\src\garage.cpp
+	"Garage.hpp"
+

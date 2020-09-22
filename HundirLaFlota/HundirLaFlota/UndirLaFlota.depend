@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1570720924 source:e:\c++\undirlaflota\undirlaflota\tablero.cpp
+	"tablero.h"
+
+1570728720 e:\c++\undirlaflota\undirlaflota\tablero.h
+	"celda.h"
+	<iostream>
+
+1570721088 source:e:\c++\undirlaflota\undirlaflota\main.cpp
+	<iostream>
+	"partida.h"
+
+1570640898 source:e:\c++\undirlaflota\undirlaflota\celda.cpp
+	"celda.h"
+
+1570728720 e:\c++\undirlaflota\undirlaflota\celda.h
+	<string>
+
+1570727134 source:e:\c++\undirlaflota\undirlaflota\jugador.cpp
+	"jugador.h"
+
+1570728720 e:\c++\undirlaflota\undirlaflota\jugador.h
+	"tablero.h"
+
+1570725742 source:e:\c++\undirlaflota\undirlaflota\partida.cpp
+	"partida.h"
+
+1570728720 e:\c++\undirlaflota\undirlaflota\partida.h
+	"jugador.h"
+	<algorithm>
+	<string>
+
+1570721088 source:e:\c++\hundirlaflota\hundirlaflota\main.cpp
+	<iostream>
+	"partida.h"
+
+1571332620 e:\c++\hundirlaflota\hundirlaflota\partida.h
+	"jugador.h"
+	<algorithm>
+	<string>
+
+1571332694 e:\c++\hundirlaflota\hundirlaflota\jugador.h
+	"tablero.h"
+
+1571332784 e:\c++\hundirlaflota\hundirlaflota\tablero.h
+	"celda.h"
+	<iostream>
+
+1571333122 e:\c++\hundirlaflota\hundirlaflota\celda.h
+	<string>
+
+1571333138 source:e:\c++\hundirlaflota\hundirlaflota\tablero.cpp
+	"tablero.h"
+
+1571333282 source:e:\c++\hundirlaflota\hundirlaflota\celda.cpp
+	"celda.h"
+
+1571332784 source:e:\c++\hundirlaflota\hundirlaflota\jugador.cpp
+	"jugador.h"
+
+1571669624 source:e:\c++\hundirlaflota\hundirlaflota\partida.cpp
+	"partida.h"
+

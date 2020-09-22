@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1570123288 source:c:\alexandermoreno\z_cursoc++\gremlins\main.cpp
+	<iostream>
+	"gremlin.hpp"
+
+1570123724 source:c:\alexandermoreno\z_cursoc++\gremlins\src\gremlin.cpp
+	"gremlin.hpp"
+
+1570123658 c:\alexandermoreno\z_cursoc++\gremlins\include\gremlin.hpp
+	<string>
+	<iostream>
+
+1570123290 source:c:\users\formacion.1\desktop\gremlins\main.cpp
+	<iostream>
+	"gremlin.hpp"
+
+1570458194 c:\users\formacion.1\desktop\gremlins\include\gremlin.hpp
+	<string>
+	<iostream>
+
+1570123780 source:c:\users\formacion.1\desktop\gremlins\src\gremlin.cpp
+	"gremlin.hpp"
+
+1570462072 source:e:\c++\gremlins\main.cpp
+	<iostream>
+	"gremlin.hpp"
+
+1570462822 e:\c++\gremlins\include\gremlin.hpp
+	<string>
+	<iostream>
+
+1570462356 source:e:\c++\gremlins\src\gremlin.cpp
+	"gremlin.hpp"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1570464750 source:e:\c++\redefinicionoperadores\redefinicionoperadores\contador2.cpp
+	"contador2.h"
+
+1570464750 e:\c++\redefinicionoperadores\redefinicionoperadores\contador2.h
+
+1570468590 source:e:\c++\redefinicionoperadores\redefinicionoperadores\contador.cpp
+	"contador.h"
+
+1570468616 e:\c++\redefinicionoperadores\redefinicionoperadores\contador.h
+	<iostream>
+
+1570468682 source:e:\c++\redefinicionoperadores\redefinicionoperadores\main.cpp
+	<iostream>
+	"contador.h"
+

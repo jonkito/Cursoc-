@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1571069750 source:e:\c++\herencia2\herencia2\main.cpp
+	<iostream>
+	"smartphone.h"
+
+1571069216 source:e:\c++\herencia2\herencia2\ordenador.cpp
+	"ordenador.h"
+
+1571069216 e:\c++\herencia2\herencia2\ordenador.h
+	<string>
+
+1571069512 source:e:\c++\herencia2\herencia2\telefono.cpp
+	"telefono.h"
+
+1571069216 e:\c++\herencia2\herencia2\telefono.h
+	<string>
+
+1571070014 source:e:\c++\herencia2\herencia2\smartphone.cpp
+	"smartphone.h"
+
+1571070034 e:\c++\herencia2\herencia2\smartphone.h
+	"telefono.h"
+	"ordenador.h"
+

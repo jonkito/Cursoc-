@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1571241736 source:e:\c++templates\templates\main.cpp
+	"lista.h"
+	"nombre.h"
+
+1571241362 source:e:\c++templates\templates\lista.cpp
+	"lista.h"
+
+1571241896 e:\c++templates\templates\lista.h
+	<iostream>
+
+1571241698 source:e:\c++templates\templates\nombre.cpp
+	"Nombre.h"
+	"Lista.h"
+
+1571241606 e:\c++templates\templates\nombre.h
+

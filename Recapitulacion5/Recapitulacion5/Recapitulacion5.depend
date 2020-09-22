@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1569513579 source:c:\users\formacion.1\desktop\c++\recapitulacion5\recapitulacion5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<limits>
+	<windows.h>
+	<math.h>
+

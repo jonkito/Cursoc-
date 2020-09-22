@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571158754 source:e:\c++\ficheros\ficheros\fichero.cpp
+	"fichero.h"
+
+1571159026 e:\c++\ficheros\ficheros\fichero.h
+	<iostream>
+	<fstream>
+
+1571236092 source:e:\c++\ficheros\ficheros\main.cpp
+	<iostream>
+	<fstream>
+

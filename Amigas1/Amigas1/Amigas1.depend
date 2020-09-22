@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514144174 source:e:\c++\amigas1\amigas1\main.cpp
+	<iostream>
+
+1571150560 source:e:\c++\amigas1\amigas1\pluma.cpp
+	"pluma.h"
+
+1571150560 e:\c++\amigas1\amigas1\pluma.h
+	<iostream>
+
+1571150706 source:e:\c++\amigas1\amigas1\espada.cpp
+	"espada.h"
+
+1571150878 e:\c++\amigas1\amigas1\espada.h
+	"pluma.h"
+

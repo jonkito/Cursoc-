@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569426375 source:c:\users\formacion.1\desktop\c++\recapitulacion4\recapitulacion\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+

@@ -1,0 +1,33 @@
+configuración para ejecutar el código en linux
+-----------------------------------------------------
+
+sudo apt-get install codeblocks
+
+// para realizar comentarios en c++
+
+std:: para utilizar funciones de la librería.
+
+En ocasiones si tenemos dos proyectos abiertos al compilar nos compila el pirmero abierto. En ese caso 
+sería pinchar en Build > Compile current file.
+
+
+Compilar desde la línea de comandos
+-----------------------------------------------------
+
+Linux g++ Tipos.cpp -o Tipos
+Windows cmd (admin) g++ prog -o main.cpp
+
+-----------------------------------------------------
+
+
+#define para crear constantes
+const tipo de variable (MAYUCULAS) para definir constantes por defecto
+
+el cout al sacar los valores de un float lo trunca a un máximo de 5 decimales.
+#include <iomanip>
+Para manipularlo setprecision(x) número de precisión. Lo que saca es el total de datos por pantalla exluyendo puntos y comas.
+
+Las struct son una aproximación a la POO antes de que esta existiera.
+Las cadenas de caracteres no se pueden asignar directamente ya que son arrays de char.
+
+int tamnumeros = sizeof(numeros2)/sizeof(int); //devuelve el tamaño del array. no hay length como en java por ejemplo.

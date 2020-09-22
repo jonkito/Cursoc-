@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1571064620 source:e:\c++\herencia\herencia\vehiculo.cpp
+	"vehiculo.h"
+
+1571065472 e:\c++\herencia\herencia\vehiculo.h
+	<string>
+	<sstream>
+
+1571066714 source:e:\c++\herencia\herencia\main.cpp
+	<iostream>
+	"vehiculo.h"
+	"coche.h"
+
+1571066948 source:e:\c++\herencia\herencia\coche.cpp
+	"coche.h"
+
+1571066846 e:\c++\herencia\herencia\coche.h
+	"Vehiculo.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570035480 source:e:\c++\clasebucles\clasebucles\main.cpp
+	<iostream>
+	<BUCLES.HPP>
+
+1570035060 source:e:\c++\clasebucles\clasebucles\src\bucles.cpp
+	"Bucles.hpp"
+
+1570036034 e:\c++\clasebucles\clasebucles\include\bucles.hpp
+	<iostream>
+
